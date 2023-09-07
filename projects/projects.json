@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "Crime Management System ",
+    "desc": "The Crime Management System Is A JAVA Web Application Built With JSP, Java, MySQL, NetBeans, And Glass Fish Server. It Provides Help To Police Departments And Enables Them To Effectively Manage Crime Reports.",
+    "image": "basicbank",
+    
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "The Future of work: Data analytics on glassdoor jobs.",
+    "desc": "This is a data analysis project focused on exploring the future of work through Glassdoor job listings. The analysis provides insights into job trends, industry shifts, and key factors influencing the job market.",
+    "image": "burgerweb",
+    
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  
+]
